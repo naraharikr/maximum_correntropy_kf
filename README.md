@@ -6,3 +6,11 @@ Ultra-Wideband (UWB) communication is used to localize the robot.  As UWB radio 
 The implementaion follows the work proposed in the reserach paper.
 
 R. Izanloo, S. A. Fakoorian, H. S. Yazdi and D. Simon, "Kalman filtering based on the maximum correntropy criterion in the presence of non-Gaussian noise," 2016 Annual Conference on Information Science and Systems (CISS), Princeton, NJ, 2016, pp. 500-505, [doi: 10.1109/CISS.2016.7460553] (https://ieeexplore.ieee.org/abstract/document/7460553).
+
+
+# Instructions
+
+Run mcc_ekf.m
+
+
+### PS: Copyright 2015 Seyed Abolfazl Fakoorian. All rights reserved. This code can be freely used for noncommercial purposes. This code can be freely distributed provided that this file is included with the distribution. Please provide proper acknowledgment of all uses of this code.
